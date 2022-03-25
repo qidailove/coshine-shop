@@ -8,9 +8,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.qidaiai</groupId>
-    <artifactId>coshine-shop-eureka-server</artifactId>
+    <artifactId>coshine-shop-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>coshine-shop-eureka-server</name>
+    <name>coshine-shop-server</name>
     <description>注册中心服务端</description>
     <packaging>jar</packaging>
 
